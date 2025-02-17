@@ -11,7 +11,7 @@
         <!-- Firebase Auth -->
         <meta-data
             android:name="com.google.firebase.auth.API_KEY"
-            android:value="@string/default_web_client_id" />
+            android:value="681121336544-2gsqhul7d8inkrhll4i1a6182ggtlsnr.apps.googleusercontent.com" />
 
         <!-- Sign-in Activity -->
         <activity
