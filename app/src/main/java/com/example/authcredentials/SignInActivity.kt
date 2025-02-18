@@ -179,7 +179,7 @@ class SignInActivity : ComponentActivity() {
     private fun signInWithGoogle() {
         lifecycleScope.launch {
             try {
-                val googleSignInOption = GetSignInWithGoogleOption.Builder("681121336544-2gsqhul7d8inkrhll4i1a6182ggtlsnr.apps.googleusercontent.com")
+                val googleSignInOption = GetSignInWithGoogleOption.Builder()
 
                     .build()
 
